@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/* "declare-use first, define later"
+ * just like the way functions usually do
+ */
 int i;
 int main(void)
 {
